@@ -230,7 +230,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5385904}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.54, y: 0, z: 4.67}
+  m_LocalPosition: {x: -12.5, y: 0, z: 4.67}
   m_LocalScale: {x: 1, y: 1, z: 61.53056}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1013,7 +1013,7 @@ GameObject:
   - component: {fileID: 1118335865}
   - component: {fileID: 1118335864}
   m_Layer: 0
-  m_Name: Obstaculo
+  m_Name: Meta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1068,7 +1068,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7c6245e7c4f7ff94989898df70a5fb4b, type: 2}
+  - {fileID: 2100000, guid: d6998743bf9df5b45a215cd95a262d0e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1106,8 +1106,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1118335863}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 4.67}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 34.68}
+  m_LocalScale: {x: 23.749632, y: 1, z: 0.84769}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}

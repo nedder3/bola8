@@ -13,7 +13,15 @@ public class Jugador : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
      {
-        //reset scene
+       
+        //win condition
+
+        if(collision.gameObject.name=="Meta")
+        {
+            this.enabled=false;
+            return;
+        }
+         //reset scene
         SceneManager.LoadScene(0);
      }
 
